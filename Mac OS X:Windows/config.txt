@@ -1,0 +1,5 @@
+http://vm-yxf373.cs.bham.ac.uk:8077/
+wss://vm-yxf373.cs.bham.ac.uk:8079/
+keystore/school-server.jks
+keystore/client.jks
+http://vm-yxf373.cs.bham.ac.uk:8077/
